@@ -16,3 +16,13 @@ Implemented the Experience Replay, Double Deep Q learning, and Dueling Double De
 
 ### 5- Deep Q Neural Network with video output
 Used CNNs network to extract environment features from a Grayscale image of the Pong Game environment alongside Deep Q learning for our agent to learn to play Pong Game and dominate the opponent.
+
+Here is a video of our agent(Green paddle) dominating the game:
+
+
+![last_episode](https://user-images.githubusercontent.com/42402986/218476792-698dd8eb-5a84-4315-af67-f46c50fd2347.gif)
+
+
+Let's take a look at how our agent has learned the game through different episodes:
+![Pong-results](https://user-images.githubusercontent.com/42402986/218475670-f85de7fb-f302-4c61-9a1b-29fee9d3c2ab.png)
+
