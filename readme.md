@@ -26,3 +26,4 @@ Here is a video of our agent(Green paddle) dominating the game:
 Let's take a look at how our agent has learned the game through different episodes:
 ![Pong-results](https://user-images.githubusercontent.com/42402986/218475670-f85de7fb-f302-4c61-9a1b-29fee9d3c2ab.png)
 
+Moreover recorded videos and trained model weights are available in the: 5-DQN-with-video-output/results directory.
