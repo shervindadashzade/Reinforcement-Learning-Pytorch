@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-
-BONUS lesson - solving stochastic FrozenLake with value iteration
-
-adjusted to pytorch 0.4.0 
-
-@author: udemy
-"""
-
 import gym
 import torch
 import matplotlib.pyplot as plt
